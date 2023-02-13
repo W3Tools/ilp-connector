@@ -48,6 +48,7 @@
     "ilp-compat-plugin": "^2.0.3",
     "ilp-packet": "^3.0.7",
     "ilp-plugin-xrp-asym-server": "^1.8.1",
+    "ilp-plugin-xrp-paychan": "^2.4.1",
     "ilp-protocol-ccp": "^1.1.1",
     "ilp-protocol-ildcp": "^2.0.0",
     "ilp-store-redis": "^0.0.5",
